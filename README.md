@@ -2,7 +2,7 @@
 
 Submitted by: **Niraj Dhakal**
 
-**Wordle** is an app that ... [TODO] 
+**Wordle** is an app that lets you guess letters to a word. It then tells you if the letter is in the word and in the correct space or not.
 
 Time spent: **3** hours spent in total
 
@@ -31,6 +31,8 @@ https://www.loom.com/embed/d4e9585451a943da88bcc2b3020fbc97?sid=997906ee-8586-44
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+initially getting started was difficult. I didn't have a way to test. Once I got the keyboard set up it was pretty easy from there.
 
 ## License
 
